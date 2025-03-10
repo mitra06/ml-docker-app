@@ -25,7 +25,7 @@ jobs:
 
       - name: Run Tests
         run: |
-          pytest  
+          pytest tests/  
 
   docker-build-and-push:
     needs: build-and-test
