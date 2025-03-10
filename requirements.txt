@@ -21,4 +21,5 @@ threadpoolctl
 typing_extensions
 tzdata
 uvicorn
+httpx
 pytest
