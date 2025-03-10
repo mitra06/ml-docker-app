@@ -24,7 +24,7 @@ jobs:
 
       - name: Run Tests
         run: |
-          pytest  # agar tumhare tests likhe hue hain
+          pytest  
 
   docker-build-and-push:
     needs: build-and-test
