@@ -21,3 +21,4 @@ threadpoolctl
 typing_extensions
 tzdata
 uvicorn
+pytest
